@@ -1,1 +1,1 @@
-libadbconnection_client.so,libadbconnection_client2.so
+libadbconnection_client.so
