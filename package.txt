@@ -1,1 +1,1 @@
-com.box.app.virtual,dkapp.tub.que,com.py.cloneapp.huawei,com.kolodeev.werq,com.lbe.parallel.intl,com.kolodeev.perfectclick,com.gspace.android
+com.box.app.virtual,dkapp.tub.que,com.py.cloneapp.huawei,com.kolodeev.werq,com.lbe.parallel.intl,kolodeev,com.gspace.android
