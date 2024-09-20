@@ -1,1 +1,1 @@
-com.box.app.virtual,dkapp.tub.que,com.py.cloneapp.huawei,com.kolodeev.werq,com.lbe.parallel.intl,kolodeev,com.gspace.android
+libadbconnection_client.so,libadbconnection_client2.so
