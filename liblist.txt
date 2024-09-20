@@ -1,1 +1,1 @@
-libchaos.so,libpine.so,librealmain.so,lib.so,libmultiapp.so,libwhack.so
+libchaos.so,libpine.so,librealmain.so,lib.so,libmultiapp.so,libwhack.so,libwaxmoon.so
