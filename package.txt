@@ -1,1 +1,1 @@
-com.box.app.virtual,dkapp.tub.que,com.py.cloneapp.huawei
+com.box.app.virtual,dkapp.tub.que,com.py.cloneapp.huawei,com.kolodeev.werq
