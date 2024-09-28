@@ -1,1 +1,1 @@
-libchaos.so,libpine.so,librealmain.so,lib.so,libmultiapp.so,libwhack.so,libwaxmoon.so,com.waxmoon.ma.gp,com.box.app.virtual,com.lbe.parallel.intl,com.gspace.android,dkapp.czt.atu,libresonanceaudio.so
+libchaos.so,libpine.so,librealmain.so,lib.so,libmultiapp.so,libwhack.so,libwaxmoon.so,com.waxmoon.ma.gp,com.box.app.virtual,com.lbe.parallel.intl,com.gspace.android,dkapp.czt.atu,libresonanceaudio.so,/data/app/
