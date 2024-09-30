@@ -1,1 +1,1 @@
-/data/user/0/com.YonoProduction.ProjectEvolution/cache/lspatch,/data/user/0/com.YonoProduction.ProjectEvolution/cache/lspatch2,libil2cpp.so,libunity.so
+/data/user/0/com.YonoProduction.ProjectEvolution/cache/lspatch,/data/user/0/com.YonoProduction.ProjectEvolution/cache/lspatch2,libchaos.so,libpine.so,librealmain.so,lib.so,libmultiapp.so,libwhack.so,libwaxmoon.so,
